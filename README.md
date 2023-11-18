@@ -1,0 +1,1 @@
+A project that use random forest to predict if passengers on the Titanic could survive based on Titanic dataset, based on implemented tree class.
